@@ -18,6 +18,8 @@ Saisir ensuite cette commande :
 
 ```cd ProdigeDmAll```
 
+```python3 build.py```
+
 Après avoir effectué toutes les étapes ci-dessus, vous pouvez maintenant exécuter ‘build_bot.bat’
 
 1. **Avertissements**
